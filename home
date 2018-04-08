@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+  <title>Project_Grid</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="css_virtualdispair4.css">
+ 
+</head>
+  
+  
+ <body>
+	
+   <div class="helena">
+  <h1> PROJECT GRID</h1>
+  
+  <h3  style="color:#ffffff;" class="centeralign">A SOCIAL MEDIA PLATFORM FOR YOU TO SHARE YOUR PERSONAL INFORMATION WITH THE REST OF THE WORLD</h3><br>
+   </div>
+   <div class="animal">
+  <a href="https://www.google.com/">Log In</a>
+  <a href="https://www.google.com/">About</a>
+  <a href="https://www.google.com/">Contact</a>
+</div>
+   
+   
+   
+  <div class="goat">
+  <h3 style="color:#ffffff;" > Log In </h3><br>
+  <input placeholder="USERNAME" type="Email" name="email">
+  <input placeholder="PASSWORD" type="password" name="password">
+  <input type="submit" value="LOG IN BUTTON"><br><br><br>
+   
+   
+   
+   <h3 style="color:#ffffff;"> Join now to recieve a free carton of eggs*</h3><br>
+   <h5 style="color:#ffffff;" >  Name: </h5> <input placeholder="Username" type="username" name="username"> <br> <br>
+   <h5 style="color:#ffffff;" > Password: </h5><input placeholder="passwerd" type="password" name="password"> <br> <br>
+   <h5 style="color:#ffffff;" >  Date of Birth: </h5>  <input type="date" name="birth"> <br> <br>
+   
+  <input type="submit" value="Sign Up Button">
+  </div>
+   						<div class="blazer">
+                <p> Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text </p>      
+   						</div>
+   
+  
+  
+
+</body>
+</html>
